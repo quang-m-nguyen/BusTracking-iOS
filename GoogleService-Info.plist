@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>452055443441-0mcgv5vcd0sg04q0k8oj4ad1fkt3s61s.apps.googleusercontent.com</string>
+	<string>1038631331613-9j8ajl9h0h37l69njeqo0rqv4lkmbu00.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.452055443441-0mcgv5vcd0sg04q0k8oj4ad1fkt3s61s</string>
+	<string>com.googleusercontent.apps.1038631331613-9j8ajl9h0h37l69njeqo0rqv4lkmbu00</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCIHPMoIs7ol6H1u_hq6G9lIqfbq3t5_Dw</string>
+	<string>AIzaSyCVhV0J1ch-AHBktzx0n8kupihO0LfmbPs</string>
 	<key>GCM_SENDER_ID</key>
-	<string>452055443441</string>
+	<string>1038631331613</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.q.MapKitQuang.cougtransit</string>
 	<key>PROJECT_ID</key>
-	<string>coug-transit-a7854</string>
+	<string>thrifa-1dd03</string>
 	<key>STORAGE_BUCKET</key>
-	<string>coug-transit-a7854.appspot.com</string>
+	<string>thrifa-1dd03.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:452055443441:ios:dd696b7f1eed45c7</string>
+	<string>1:1038631331613:ios:dd696b7f1eed45c7</string>
 	<key>DATABASE_URL</key>
-	<string>https://coug-transit-a7854.firebaseio.com</string>
+	<string>https://thrifa-1dd03.firebaseio.com</string>
 </dict>
 </plist>

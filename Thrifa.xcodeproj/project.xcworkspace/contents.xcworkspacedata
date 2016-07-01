@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MapKitQuang.xcodeproj">
+      location = "self:/Users/quangnguyen/Documents/MapKitQuang/Thrifa.xcodeproj">
    </FileRef>
 </Workspace>
