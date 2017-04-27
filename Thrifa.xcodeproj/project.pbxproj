@@ -7,52 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A72ACDD50F2AB27CBD75B71F /* Pods_MapKitQuang.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 416C6785FC6A7E2E27865098 /* Pods_MapKitQuang.framework */; };
-		E309EE031D0820A300AD7877 /* freshpin.png in Resources */ = {isa = PBXBuildFile; fileRef = E309EE021D0820A200AD7877 /* freshpin.png */; };
 		E309EE051D0822F100AD7877 /* FinalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E309EE041D0822F100AD7877 /* FinalViewController.swift */; };
-		E318FAE71D04D6CA00C07083 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E318FAE61D04D6CA00C07083 /* GoogleService-Info.plist */; };
 		E34DA1A71D18834E001A5DB8 /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34DA1A61D18834E001A5DB8 /* CustomCell.swift */; };
-		E36EB8941D1A338A00BA8C68 /* live.png in Resources */ = {isa = PBXBuildFile; fileRef = E36EB8931D1A338A00BA8C68 /* live.png */; };
-		E36EB8961D1A449F00BA8C68 /* blueicon.png in Resources */ = {isa = PBXBuildFile; fileRef = E36EB8951D1A449F00BA8C68 /* blueicon.png */; };
-		E36EB8981D1A454500BA8C68 /* tealicon.png in Resources */ = {isa = PBXBuildFile; fileRef = E36EB8971D1A454500BA8C68 /* tealicon.png */; };
 		E36EB89A1D1A656500BA8C68 /* FinalCustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E36EB8991D1A656500BA8C68 /* FinalCustomCell.swift */; };
-		E36EB89C1D1A668800BA8C68 /* bus_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E36EB89B1D1A668800BA8C68 /* bus_icon.png */; };
-		E3831A9C1D23BC2A00D9FB91 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = E3831A9B1D23BC2A00D9FB91 /* back.png */; };
-		E3831A9E1D24F06D00D9FB91 /* orangedot.png in Resources */ = {isa = PBXBuildFile; fileRef = E3831A9D1D24F06D00D9FB91 /* orangedot.png */; };
-		E3831AA01D250B8500D9FB91 /* underconstruction.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E3831A9F1D250B8500D9FB91 /* underconstruction.jpg */; };
-		E3831AA21D250C2200D9FB91 /* gocougs.png in Resources */ = {isa = PBXBuildFile; fileRef = E3831AA11D250C2200D9FB91 /* gocougs.png */; };
-		E3AE71A41D0B4C64001CC2BF /* circleicon1.png in Resources */ = {isa = PBXBuildFile; fileRef = E3AE71A31D0B4C64001CC2BF /* circleicon1.png */; };
-		E3AE71A61D0B4D78001CC2BF /* red.png in Resources */ = {isa = PBXBuildFile; fileRef = E3AE71A51D0B4D78001CC2BF /* red.png */; };
-		E3AE71A81D0B4E31001CC2BF /* red1.png in Resources */ = {isa = PBXBuildFile; fileRef = E3AE71A71D0B4E31001CC2BF /* red1.png */; };
-		E3AE71AA1D0B50A0001CC2BF /* sred.png in Resources */ = {isa = PBXBuildFile; fileRef = E3AE71A91D0B50A0001CC2BF /* sred.png */; };
+		E3A187D81D484DE30017DD4D /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E3A187D71D484DE30017DD4D /* GoogleService-Info.plist */; };
 		E3B7E12A1D00018A00CDFF83 /* PickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B7E1291D00018A00CDFF83 /* PickerViewController.swift */; };
 		E3B83A1F1C8D0243003FBF3F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B83A1E1C8D0243003FBF3F /* AppDelegate.swift */; };
 		E3B83A211C8D0243003FBF3F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B83A201C8D0243003FBF3F /* ViewController.swift */; };
 		E3B83A241C8D0243003FBF3F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3B83A221C8D0243003FBF3F /* Main.storyboard */; };
 		E3B83A261C8D0243003FBF3F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3B83A251C8D0243003FBF3F /* Assets.xcassets */; };
 		E3B83A291C8D0243003FBF3F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3B83A271C8D0243003FBF3F /* LaunchScreen.storyboard */; };
+		E3D406581D2E218700252053 /* Timer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D406571D2E218700252053 /* Timer.swift */; };
+		E3D864991D30A15700257FD9 /* AlarmsTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D864981D30A15700257FD9 /* AlarmsTable.swift */; };
+		E3D864A11D31FD6D00257FD9 /* SettingsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D864A01D31FD6D00257FD9 /* SettingsController.swift */; };
+		E3F37A141D7132380071A9BF /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E3F37A121D7132380071A9BF /* Model.xcdatamodeld */; };
+		E3F37A161D71390E0071A9BF /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F37A151D71390E0071A9BF /* DataController.swift */; };
+		E3F37A181D713B530071A9BF /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E3F37A171D713B530071A9BF /* CoreData.framework */; };
+		E3F499CC1D4EA013000461E6 /* bus.png in Resources */ = {isa = PBXBuildFile; fileRef = E3F499CB1D4EA013000461E6 /* bus.png */; };
+		F3B15536B430C082116D6A05 /* Pods_Thrifa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B875EC50A0F8397CE6A8D5B0 /* Pods_Thrifa.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		416C6785FC6A7E2E27865098 /* Pods_MapKitQuang.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MapKitQuang.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8EC8C48E694F5A038110AF12 /* Pods-Thrifa.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Thrifa.release.xcconfig"; path = "Pods/Target Support Files/Pods-Thrifa/Pods-Thrifa.release.xcconfig"; sourceTree = "<group>"; };
+		AE298A5C0CEF9E58837D0783 /* Pods-Thrifa.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Thrifa.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Thrifa/Pods-Thrifa.debug.xcconfig"; sourceTree = "<group>"; };
+		B875EC50A0F8397CE6A8D5B0 /* Pods_Thrifa.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Thrifa.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4F7F2452979EB99CB45F483 /* Pods-MapKitQuang.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MapKitQuang.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MapKitQuang/Pods-MapKitQuang.debug.xcconfig"; sourceTree = "<group>"; };
-		E309EE021D0820A200AD7877 /* freshpin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = freshpin.png; sourceTree = "<group>"; };
 		E309EE041D0822F100AD7877 /* FinalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FinalViewController.swift; sourceTree = "<group>"; };
-		E318FAE61D04D6CA00C07083 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		E34DA1A61D18834E001A5DB8 /* CustomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
-		E36EB8931D1A338A00BA8C68 /* live.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = live.png; sourceTree = "<group>"; };
-		E36EB8951D1A449F00BA8C68 /* blueicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blueicon.png; sourceTree = "<group>"; };
-		E36EB8971D1A454500BA8C68 /* tealicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tealicon.png; sourceTree = "<group>"; };
 		E36EB8991D1A656500BA8C68 /* FinalCustomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FinalCustomCell.swift; sourceTree = "<group>"; };
-		E36EB89B1D1A668800BA8C68 /* bus_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bus_icon.png; sourceTree = "<group>"; };
-		E3831A9B1D23BC2A00D9FB91 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
-		E3831A9D1D24F06D00D9FB91 /* orangedot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = orangedot.png; sourceTree = "<group>"; };
-		E3831A9F1D250B8500D9FB91 /* underconstruction.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = underconstruction.jpg; sourceTree = "<group>"; };
-		E3831AA11D250C2200D9FB91 /* gocougs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gocougs.png; sourceTree = "<group>"; };
-		E3AE71A31D0B4C64001CC2BF /* circleicon1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circleicon1.png; sourceTree = "<group>"; };
-		E3AE71A51D0B4D78001CC2BF /* red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red.png; sourceTree = "<group>"; };
-		E3AE71A71D0B4E31001CC2BF /* red1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red1.png; sourceTree = "<group>"; };
-		E3AE71A91D0B50A0001CC2BF /* sred.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sred.png; sourceTree = "<group>"; };
+		E3A187D71D484DE30017DD4D /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		E3B7E1291D00018A00CDFF83 /* PickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PickerViewController.swift; sourceTree = "<group>"; };
 		E3B83A1B1C8D0243003FBF3F /* Thrifa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Thrifa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3B83A1E1C8D0243003FBF3F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +45,13 @@
 		E3B83A251C8D0243003FBF3F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E3B83A281C8D0243003FBF3F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E3B83A2A1C8D0243003FBF3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3D406571D2E218700252053 /* Timer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Timer.swift; sourceTree = "<group>"; };
+		E3D864981D30A15700257FD9 /* AlarmsTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlarmsTable.swift; sourceTree = "<group>"; };
+		E3D864A01D31FD6D00257FD9 /* SettingsController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsController.swift; sourceTree = "<group>"; };
+		E3F37A131D7132380071A9BF /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
+		E3F37A151D71390E0071A9BF /* DataController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DataController.swift; path = ../DataController.swift; sourceTree = "<group>"; };
+		E3F37A171D713B530071A9BF /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		E3F499CB1D4EA013000461E6 /* bus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bus.png; sourceTree = "<group>"; };
 		FFCBFCF41FC11E9413A52B45 /* Pods-MapKitQuang.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MapKitQuang.release.xcconfig"; path = "Pods/Target Support Files/Pods-MapKitQuang/Pods-MapKitQuang.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -69,7 +60,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A72ACDD50F2AB27CBD75B71F /* Pods_MapKitQuang.framework in Frameworks */,
+				E3F37A181D713B530071A9BF /* CoreData.framework in Frameworks */,
+				F3B15536B430C082116D6A05 /* Pods_Thrifa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +73,8 @@
 			children = (
 				C4F7F2452979EB99CB45F483 /* Pods-MapKitQuang.debug.xcconfig */,
 				FFCBFCF41FC11E9413A52B45 /* Pods-MapKitQuang.release.xcconfig */,
+				AE298A5C0CEF9E58837D0783 /* Pods-Thrifa.debug.xcconfig */,
+				8EC8C48E694F5A038110AF12 /* Pods-Thrifa.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -88,7 +82,9 @@
 		8084623A5AE03A5899AECB78 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				E3F37A171D713B530071A9BF /* CoreData.framework */,
 				416C6785FC6A7E2E27865098 /* Pods_MapKitQuang.framework */,
+				B875EC50A0F8397CE6A8D5B0 /* Pods_Thrifa.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -96,8 +92,7 @@
 		E3B83A121C8D0243003FBF3F = {
 			isa = PBXGroup;
 			children = (
-				E318FAE61D04D6CA00C07083 /* GoogleService-Info.plist */,
-				E3B83A1D1C8D0243003FBF3F /* MapKitQuang */,
+				E3B83A1D1C8D0243003FBF3F /* Thrifa */,
 				E3B83A1C1C8D0243003FBF3F /* Products */,
 				2887EE7E9D5DC7CB66D23751 /* Pods */,
 				8084623A5AE03A5899AECB78 /* Frameworks */,
@@ -112,33 +107,28 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E3B83A1D1C8D0243003FBF3F /* MapKitQuang */ = {
+		E3B83A1D1C8D0243003FBF3F /* Thrifa */ = {
 			isa = PBXGroup;
 			children = (
 				E3B83A1E1C8D0243003FBF3F /* AppDelegate.swift */,
-				E3AE71A91D0B50A0001CC2BF /* sred.png */,
-				E3AE71A31D0B4C64001CC2BF /* circleicon1.png */,
-				E3831AA11D250C2200D9FB91 /* gocougs.png */,
-				E3831A9B1D23BC2A00D9FB91 /* back.png */,
-				E3831A9D1D24F06D00D9FB91 /* orangedot.png */,
-				E3831A9F1D250B8500D9FB91 /* underconstruction.jpg */,
-				E309EE021D0820A200AD7877 /* freshpin.png */,
-				E36EB89B1D1A668800BA8C68 /* bus_icon.png */,
-				E3AE71A71D0B4E31001CC2BF /* red1.png */,
-				E3AE71A51D0B4D78001CC2BF /* red.png */,
 				E3B83A201C8D0243003FBF3F /* ViewController.swift */,
+				E3D864A01D31FD6D00257FD9 /* SettingsController.swift */,
 				E36EB8991D1A656500BA8C68 /* FinalCustomCell.swift */,
-				E36EB8951D1A449F00BA8C68 /* blueicon.png */,
-				E36EB8971D1A454500BA8C68 /* tealicon.png */,
-				E36EB8931D1A338A00BA8C68 /* live.png */,
 				E309EE041D0822F100AD7877 /* FinalViewController.swift */,
 				E3B83A221C8D0243003FBF3F /* Main.storyboard */,
+				E3F37A151D71390E0071A9BF /* DataController.swift */,
 				E34DA1A61D18834E001A5DB8 /* CustomCell.swift */,
 				E3B83A251C8D0243003FBF3F /* Assets.xcassets */,
 				E3B83A271C8D0243003FBF3F /* LaunchScreen.storyboard */,
 				E3B83A2A1C8D0243003FBF3F /* Info.plist */,
 				E3B7E1291D00018A00CDFF83 /* PickerViewController.swift */,
+				E3D864981D30A15700257FD9 /* AlarmsTable.swift */,
+				E3F37A121D7132380071A9BF /* Model.xcdatamodeld */,
+				E3F499CB1D4EA013000461E6 /* bus.png */,
+				E3D406571D2E218700252053 /* Timer.swift */,
+				E3A187D71D484DE30017DD4D /* GoogleService-Info.plist */,
 			);
+			name = Thrifa;
 			path = MapKitQuang;
 			sourceTree = "<group>";
 		};
@@ -171,6 +161,9 @@
 		E3B83A131C8D0243003FBF3F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					customsettings,
+				);
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "Quang Nguyen";
@@ -181,6 +174,9 @@
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
+							};
+							com.apple.Maps.iOS = {
+								enabled = 0;
 							};
 							com.apple.Push = {
 								enabled = 1;
@@ -212,23 +208,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E309EE031D0820A300AD7877 /* freshpin.png in Resources */,
-				E36EB8941D1A338A00BA8C68 /* live.png in Resources */,
-				E3831AA21D250C2200D9FB91 /* gocougs.png in Resources */,
-				E36EB89C1D1A668800BA8C68 /* bus_icon.png in Resources */,
 				E3B83A291C8D0243003FBF3F /* LaunchScreen.storyboard in Resources */,
-				E3831A9C1D23BC2A00D9FB91 /* back.png in Resources */,
-				E3AE71AA1D0B50A0001CC2BF /* sred.png in Resources */,
-				E36EB8961D1A449F00BA8C68 /* blueicon.png in Resources */,
-				E3831A9E1D24F06D00D9FB91 /* orangedot.png in Resources */,
-				E318FAE71D04D6CA00C07083 /* GoogleService-Info.plist in Resources */,
 				E3B83A261C8D0243003FBF3F /* Assets.xcassets in Resources */,
-				E3AE71A61D0B4D78001CC2BF /* red.png in Resources */,
-				E3AE71A41D0B4C64001CC2BF /* circleicon1.png in Resources */,
 				E3B83A241C8D0243003FBF3F /* Main.storyboard in Resources */,
-				E3831AA01D250B8500D9FB91 /* underconstruction.jpg in Resources */,
-				E36EB8981D1A454500BA8C68 /* tealicon.png in Resources */,
-				E3AE71A81D0B4E31001CC2BF /* red1.png in Resources */,
+				E3F499CC1D4EA013000461E6 /* bus.png in Resources */,
+				E3A187D81D484DE30017DD4D /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,7 +231,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MapKitQuang/Pods-MapKitQuang-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Thrifa/Pods-Thrifa-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		BE1409B21AD9524737A30FC5 /* [CP] Copy Pods Resources */ = {
@@ -262,7 +246,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MapKitQuang/Pods-MapKitQuang-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Thrifa/Pods-Thrifa-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		E3E6453125A89A7AED93211E /* [CP] Check Pods Manifest.lock */ = {
@@ -287,10 +271,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E3D864A11D31FD6D00257FD9 /* SettingsController.swift in Sources */,
 				E3B7E12A1D00018A00CDFF83 /* PickerViewController.swift in Sources */,
 				E36EB89A1D1A656500BA8C68 /* FinalCustomCell.swift in Sources */,
+				E3D406581D2E218700252053 /* Timer.swift in Sources */,
 				E309EE051D0822F100AD7877 /* FinalViewController.swift in Sources */,
+				E3F37A161D71390E0071A9BF /* DataController.swift in Sources */,
+				E3D864991D30A15700257FD9 /* AlarmsTable.swift in Sources */,
 				E34DA1A71D18834E001A5DB8 /* CustomCell.swift in Sources */,
+				E3F37A141D7132380071A9BF /* Model.xcdatamodeld in Sources */,
 				E3B83A211C8D0243003FBF3F /* ViewController.swift in Sources */,
 				E3B83A1F1C8D0243003FBF3F /* AppDelegate.swift in Sources */,
 			);
@@ -403,11 +392,11 @@
 		};
 		E3B83A2E1C8D0243003FBF3F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C4F7F2452979EB99CB45F483 /* Pods-MapKitQuang.debug.xcconfig */;
+			baseConfigurationReference = AE298A5C0CEF9E58837D0783 /* Pods-Thrifa.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Quang Nguyen (VKG9Q62KPG)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Quang Nguyen (VKG9Q62KPG)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = MapKitQuang/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.q.MapKitQuang.cougtransit;
@@ -418,11 +407,11 @@
 		};
 		E3B83A2F1C8D0243003FBF3F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FFCBFCF41FC11E9413A52B45 /* Pods-MapKitQuang.release.xcconfig */;
+			baseConfigurationReference = 8EC8C48E694F5A038110AF12 /* Pods-Thrifa.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Quang Nguyen (VKG9Q62KPG)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Quang Nguyen (VKG9Q62KPG)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = MapKitQuang/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.q.MapKitQuang.cougtransit;
@@ -453,6 +442,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		E3F37A121D7132380071A9BF /* Model.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				E3F37A131D7132380071A9BF /* Model.xcdatamodel */,
+			);
+			currentVersion = E3F37A131D7132380071A9BF /* Model.xcdatamodel */;
+			path = Model.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = E3B83A131C8D0243003FBF3F /* Project object */;
 }
